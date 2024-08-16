@@ -1,0 +1,105 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #31acf8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container styling */
+.container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: 400px;
+  height: 300px;
+}
+
+/* Heading styling */
+h1 {
+  color: #1abc9c; /* Green color */
+  margin-bottom: 20px;
+}
+
+/* Subtitle styling */
+.subtitles h2 {
+  color: #333333; /* Dark gray color */
+  margin: 10px 0;
+}
+
+.link-log{
+  background-color: white;
+  border-radius: 6px;
+  padding: 10px 10px;
+  /* height: 40px; */
+  width: 220px;
+  border: 10px line;
+  color: gray;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+  display: inline;
+  color: black;
+  text-decoration: none;
+  
+  
+}
+
+.link-log:hover{
+  background-color: gray;
+  color: white;
+}
+
+
+.link-log1{
+  background-color: white;
+  border-radius: 6px;
+  padding: 10px 10px;
+  /* height: 40px; */
+  width: 220px;
+  border: 10px line;
+  color: gray;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+  display: inline;
+  color: black;
+  margin-top: 10px;
+}
+
+.link-log1:hover{
+  background-color: gray;
+  color: white;
+}
+
+.link-log2{
+  background-color: white;
+  border-radius: 6px;
+  padding: 10px 10px;
+  /* height: 40px; */
+  width: 220px;
+  border: 10px line;
+  color: gray;
+  cursor: pointer;
+  font-size: 20px;
+  text-align: center;
+  display: inline;
+  color: black;
+  margin-top: 10px;
+}
+
+.link-log2:hover{
+  background-color: gray;
+  color: white;
+}
